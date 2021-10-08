@@ -28,7 +28,7 @@ twitter_username: qitianbiao
 github_username:  qitianbiao
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
