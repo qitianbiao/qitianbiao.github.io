@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "格言 Aphorism"
+date:   2021-10-04 2:00:00 +0000
+categories: jekyll update
+---
+善胜不败 善败不亡
+以身观身 以心观心
