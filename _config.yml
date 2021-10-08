@@ -29,7 +29,7 @@ github_username:  qitianbiao
 
 # Build settings
 # theme: jekyll-theme-cayman
-theme: architect
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
