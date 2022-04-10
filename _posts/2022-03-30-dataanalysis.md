@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "数据分析 data analysis"
-date:   2022-03-030 2:00:00 +0000
+title:  "数据分析 Data Analysis"
+date:   2022-03-30 2:00:00 +0000
 categories: jekyll update
 ---
 
@@ -421,8 +421,7 @@ df1.groupby('股票代码')['成交量（万股）'].apply(lambda x: x / x.sum()
 
 ## 数据可视化
 
-- DataFrame和Series都可以后接例如.plot.bar()来画图
-- 
+- DataFrame和Series都可以后接例如.plot.bar()来画图 
 
 ### 中文字体
 ```
